@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'I HATE SSH'
+    return 'Nah man, you love it.'
